@@ -1,0 +1,35 @@
+{
+  "project": "JabangPro",
+  "version": "1.1.0-production-core",
+  "currency": "GMD",
+  "language": "English",
+  "supabase_project_ref": "cuxrkbkoyvkdhqyiumlm",
+  "has_real_auth": true,
+  "has_real_rls": true,
+  "has_working_demo_pos": false,
+  "has_supabase_schema": true,
+  "excluded_features": [
+    "suppliers",
+    "tax",
+    "cogs_gross_margin",
+    "promotions",
+    "coupons",
+    "gift_cards",
+    "vouchers",
+    "customer_loyalty",
+    "purchase_orders",
+    "stocktaking",
+    "cash_register_till",
+    "end_of_day_reconciliation",
+    "shift_reconciliation",
+    "shift_management",
+    "complex_advanced_search",
+    "offline_mode"
+  ],
+  "not_yet_built": [
+    "barcode_scanning",
+    "product_images_storage",
+    "printed_receipts",
+    "vercel_deployment"
+  ]
+}
